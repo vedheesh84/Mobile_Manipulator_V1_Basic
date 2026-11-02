@@ -58,7 +58,7 @@ Mobile_Manipulator_ws/
 
 ### 1. Build the Robot Workspace
 ```bash
-cd "02 — Domains/ROS2/Mobile_Manipulator_ws/gripper_car_ws"
+cd "03 — Projects & Experiments/
 colcon build --symlink-install
 source install/setup.bash
 ```
